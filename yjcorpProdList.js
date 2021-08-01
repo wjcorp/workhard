@@ -8,5 +8,6 @@ var prodList = [
     { seq: 7, name: '가든', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:3 },
     { seq: 8, name: '가든', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:3 },
     { seq: 9, name: '석유통', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:3 },
-    { seq: 10, name: '분사기', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:4 }
+    { seq: 10, name: '분사기', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:4 },
+    { seq: 11, name: '아연분사기', imgsrc: 'https://i.ibb.co/XFgp5fJ/image.jpg', desc1:'15mm', desc2:'30미터/50미터', rdate:'2021-05-01', isNew:1, cate:4 }
 ];
