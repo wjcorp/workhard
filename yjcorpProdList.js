@@ -47,11 +47,11 @@ var prodList = [
     { seq: 3, name: '코일호스(삼정)', imgsrc: 'https://i.ibb.co/0tJV3Xz/20210802-145736.jpg', desc1: '15M/20M', desc2: '', isNew: 1, cate: 2 },
     { seq: 4, name: '매직호스', imgsrc: 'https://i.ibb.co/s2nn5k9/20210802-145713.jpg', desc1: '7.5M/15M', desc2: '', isNew: 1, cate: 2 },
 
-    { seq: 1, name: '석유통', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '20리터', desc2: '', isNew: 0, cate: 3 },
+    { seq: 1, name: '석유통', imgsrc: 'https://i.ibb.co/jTFs6dK/20210424-181751.jpg', desc1: '20리터', desc2: '', isNew: 0, cate: 3 },
     { seq: 2, name: '안전 석유통', imgsrc: 'https://i.ibb.co/SBbFtTh/20210802-135639.jpg', desc1: '20리터', desc2: '녹색/백색/적색', isNew: 0, cate: 3 },
     { seq: 3, name: '안전 석유통', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '10리터', desc2: '', isNew: 0, cate: 3 },
     { seq: 4, name: '생수통', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '20리터/10리터', desc2: '', isNew: 0, cate: 3 },
-    { seq: 5, name: '물 조루', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '대/중', desc2: '', isNew: 0, cate: 3 },
+    { seq: 5, name: '물 조루', imgsrc: 'https://i.ibb.co/W37sxMy/20210423-205127.jpg', desc1: '대/중', desc2: '', isNew: 0, cate: 3 },
     { seq: 6, name: '예초기통', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '4리터', desc2: '', isNew: 0, cate: 3 },
     { seq: 7, name: '안전 생수통', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '20리터', desc2: '', isNew: 0, cate: 3 },
 
