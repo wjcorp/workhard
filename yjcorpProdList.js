@@ -8,7 +8,7 @@ var prodList = [
     { seq: 7, name: '사계절', imgsrc: 'https://i.ibb.co/GMC3KQ3/20210802-134649.jpg', desc1: '15mm', desc2: '30M/50M', isNew: 0, cate: 1 },
     { seq: 8, name: '흑편사', imgsrc: 'https://i.ibb.co/LZf7Kkb/20210802-134929.jpg', desc1: '15mm', desc2: '30M/50M', isNew: 0, cate: 1 },
     { seq: 9, name: '흑편사', imgsrc: 'https://i.ibb.co/nMN25v6/20210802-135021.jpg', desc1: '19mm', desc2: '45M', isNew: 0, cate: 1 },
-    { seq: 10, name: '흑편사', imgsrc: 'https://i.ibb.co/sbnsCVZ/image.jpg', desc1: '25mm', desc2: '45M', isNew: 0, cate: 1 },
+    { seq: 10, name: '흑편사', imgsrc: 'https://i.ibb.co/fvPy23N/20210802-135049.jpg', desc1: '25mm', desc2: '45M', isNew: 0, cate: 1 },
     { seq: 11, name: '청말랭이', imgsrc: 'https://i.ibb.co/nCLhtjL/20210802-135210.jpg', desc1: '15mm', desc2: '30M/50M', isNew: 0, cate: 1 },
     { seq: 12, name: '씽크', imgsrc: 'https://i.ibb.co/QmY5L7k/20210802-134910.jpg', desc1: '30.5/38mm', desc2: '30M', isNew: 0, cate: 1 },
     { seq: 13, name: '목장', imgsrc: 'https://i.ibb.co/McfyWdw/20210802-134945.jpg', desc1: '15mm', desc2: '30M/50M', isNew: 0, cate: 1 },
