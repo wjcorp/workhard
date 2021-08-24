@@ -61,7 +61,7 @@ var prodList = [
     { seq: 6, name: '분사기(삼정)', imgsrc: 'https://i.ibb.co/j8XxMd7/20210802-150146.jpg', desc1: '소', desc2: '', isNew: 1, cate: 4 },
     { seq: 7, name: '연결구', imgsrc: 'https://i.ibb.co/7CD1Z1H/20210802-150115.jpg', desc1: '16mm', desc2: '', isNew: 0, cate: 4 },
     { seq: 8, name: '연결구', imgsrc: 'https://i.ibb.co/Yh79CDh/300.jpg', desc1: '19mm', desc2: '', isNew: 0, cate: 4 },
-    { seq: 9, name: '연결구', imgsrc: 'https://i.ibb.co/Yh79CDh/300.jpg', desc1: '16mm', desc2: 'Y형', isNew: 0, cate: 4 },
+    { seq: 9, name: '연결구', imgsrc: 'https://i.ibb.co/xGk3HKb/20210823-125426.jpg', desc1: '16mm', desc2: 'Y형', isNew: 0, cate: 4 },
     { seq: 10, name: '연결구', imgsrc: 'https://i.ibb.co/y8tt7nQ/20210802-150055.jpg', desc1: '16mm', desc2: '원터치', isNew: 1, cate: 4 },
     { seq: 11, name: '수도 연결구', imgsrc: 'https://i.ibb.co/kh6zhCJ/20210802-150048.jpg', desc1: '원터치', desc2: '', isNew: 1, cate: 4 },
     { seq: 12, name: '석유 자바라', imgsrc: 'https://i.ibb.co/S3rYLxf/20210820-131200.jpg', desc1: '대/중', desc2: '', isNew: 0, cate: 4 },
